@@ -1,0 +1,50 @@
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+}
+#header-background {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAALVBMVEX/o7SggMT7vM39193dy/338aH/obL7usz92d7/2Nrayv/byP/59Jn9+J6Ydcbf5dLXAAABC0lEQVR4nO3QwQ2AIAAEMERERWX/cZ3hniTtCC0l1WvqvPbQPVroeY/QN7dUfCVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVLlixZsmTJkiVL1hpZP/LeFae/lCW+AAAAAElFTkSuQmCC);
+    
+}
+
+p {
+    text-align: center;
+    font-size: 20px;
+    
+}
+img {
+    width: 200px;
+    filter: saturate(100%);
+}
+body {
+    min-width: 500px;
+    background: linear-gradient(99deg, pink, lightblue);
+    padding: 20px;
+}
+.image7 {
+    align-items: center;
+    padding-left: 47.7%;
+    width: 70px;
+    margin-bottom: -1.5%;
+}
+.evy {
+    padding-left: 43%;
+}
+.img1 {
+    padding-left: 36%;
+    
+}
+.img5 {
+    padding-left: 36%;
+    margin-top: 0%;
+}
+.img3 {
+    padding-left: 33%;
+    width: 500px;
+}
+.img4 {
+    width: 500px;
+    padding-left: 33%;
+}
